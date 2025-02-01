@@ -48,18 +48,18 @@
     },
     "WEBSITE_URL": {
       "description": "Enter shortener website domain eg upshrink.com",
-      "value": "upshrink.com",
+      "value": "omegalinks.in",
       "required": false
     },
     "AD_API": {
       "description": "Batch size for premium users",
-      "value": "52b4a2cf4687d81e7d3f8f2b7bc2943f618e78cb",
+      "value": "2919fa4e63a974e6708d8870c759728dcec1d315",
       "required": false
     },
     
     "SUDO_USERS": {
       "description": "Other Admins' IDs (optional)",
-      "value": "",
+      "value": "6069621485",
       "required": false
     },
     "CHANNEL_ID": {
