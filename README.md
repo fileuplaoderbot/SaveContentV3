@@ -353,6 +353,6 @@ Visit the [Terms of Use](https://github.com/fileuplaoderbot/SaveContentV3/blob/f
 **Note**: Changing the terms and commands doesn't magically make you a developer. Real development involves understanding the code, writing new functionalities, and debugging issues, not just renaming things. If only it were that easy!
 
 ### Special thanks to:
-- [King of Patal](https://github.com/alreadydea) for base development of this repository.
-- [Mautrix Bridge](https://github.com/mautrix/telegram) for fast uploader connectivity bridge.
+- [Owner of Movie Horn](https://t.me/MovieHornOwner) for base development of this repository.
+- [Send Owner of Movie Horn](https://t.me/MhOwner) for fast uploader connectivity bridge.
 
