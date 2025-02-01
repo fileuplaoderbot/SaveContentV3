@@ -2,10 +2,10 @@
   Winter Release V3
 </h1>
 
-[Telegram](https://t.me/save_restricted_content_bots) | [See Recent Updates](https://github.com/devgaganin/Save-Restricted-Content-Bot-V2/tree/v3#updates)
+[Telegram](https://t.me/ShinchanDubber) | [See Recent Updates](https://t.me/Movie_Horn)
 
 ### Star the repo it motivate us to update new features
-see our live bot kn telegram to check the features [Advance Content Saver Bot](https://t.me/advance_content_saver_bot)
+see our live bot kn telegram to check the features [Advance Content Saver Bot](https://t.me/SaveContentRestrictedRobot)
 
 ## 📚 About This Branch
 - This branch is based on `Pyrogram V2` offering enhanced stability and a forced login feature. User are not forced to login in bot for public channels but for public groups and private channel they have to do login.
